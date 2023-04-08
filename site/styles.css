@@ -50,7 +50,7 @@ margin-bottom: auto;
     font-size: 112%;
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-family: cursive;
+   /* font-family: cursive;*/
     background-color: hsl(41, 75%, 43%);
 }
 .title3{
@@ -63,7 +63,7 @@ margin-bottom: auto;
     font-size: 125%;
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-family: cursive;
+    /*font-family: cursive;*/
     background-color: rgb(202, 202, 10);
 }
 .content{
